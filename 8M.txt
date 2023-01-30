@@ -221,6 +221,11 @@ CCTV17,https://live.v1.mk/api/bestv.php?id=cctv17hd8m/8000000
 纬来电影台,http://pull-l3-cny.douyincdn.com/third/stream-6de7ee8878da79aaf393c0f63081cb0c.m3u8
 纬来体育,https://epg.pw/stream/32bb7d3cc3b6354c3d54d5774b3f49fd75aca59e7c3bbc6e3d44aba1a9688eed.m3u8
 星卫电影台, http://pull-l3-cny.douyincdn.com/third/stream-80d54eadb8f343a8b837c22e336155d1.m3u8
+东森电影台1,https://epg.pw/stream/1b3d56e6ceb171e2c128b6463ff8996009e4a205506dab7744170c014e343c06.m3u8
+東森電影台2,https://epg.pw/stream/f763ec5adb93d83b684925470d18101e0f5c5a5c87327e42ce233a75ebae2dc9.m3u8
+東森電影台3,https://epg.pw/stream/4775eac2c3cd05cc0077fdead427befe5272e1acc240234d9f7ea897c250c07b.ctv
+東森電影台4,https://epg.pw/stream/4cd5cdcb66086b5f285824da19a177a0a671aeae3376677eead4521e8b79a1fc.m3u8
+东森电影5,https://epg.pw/stream/d9db4b076a0beb62f3a1a10bec4790575de61e7b7f40f0c8129447f413750930.ctv
 GTV八大第1台,http://pull-l3-cny.douyincdn.com/third/stream-9dbd2556b180db11b62283739297981b.m3u8
 GTV八大戏剧台,http://pull-l3-cny.douyincdn.com/third/stream-d031f22e749d09f261df822eb69fd743.m3u8
 GTV八大综合台,http://pull-l3-cny.douyincdn.com/third/stream-5228b1fb91b765911e64c9843f989267.m3u8
