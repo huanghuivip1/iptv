@@ -478,6 +478,7 @@ SiTV游戏风云高清,http://baidu.live.cqccn.com/__cl/cg:live/__c/yxfyHD/__op/
 星空卫视,http://159.75.85.63:8765/telegram@feiyangdigital-xingkong.m3u8
 翡翠台,http://159.75.85.63:8765/telegram@feiyangdigital-feicui.m3u8
 明珠台,http://159.75.85.63:8765/telegram@feiyangdigital-mingzhu.m3u8
+凤凰卫视中文台,https://epg.pw/stream/6fb11e22df3b51fb530f961dc9659016c1f28296a24422aebe88e7a137a6bf97.ctv
 凤凰卫视中文台,http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
 凤凰卫视资讯台,http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
 香港卫视台,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
