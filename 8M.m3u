@@ -170,16 +170,14 @@ http://[2409:8087:2001:20:2800:0:df6e:eb17]/wh7f454c46tw3143044227_-926148572/ot
 http://[2409:8087:2001:20:2800:0:df6e:eb1a]/wh7f454c46tw1400573680_-1979013462/ott.mobaibox.com/PLTV/3/224/3221227568/index.m3u8?icpid=3&RTS=1668600490&from=40&popid=40&hms_devid=2116&prioritypopid=40&vqe=3
 #EXTINF:-1 tvg-id="51" tvg-name="吉林卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jilin.png" group-title="卫视",吉林卫视
 http://[2409:8087:2001:20:2800:0:df6e:eb03]/wh7f454c46tw1874077489_789689702/ott.mobaibox.com/PLTV/3/224/3221228130/index.m3u8?icpid=3&RTS=1669700475&from=40&popid=40&hms_devid=2039&prioritypopid=40&vqe=3
-#EXTINF:-1 tvg-id="72" tvg-name="三沙卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sansha.png" group-title="卫视",三沙卫视
-http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000319/index.m3u8?IAS
+
 #EXTINF:-1 tvg-id="41" tvg-name="东南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongnan.png" group-title="卫视",东南卫视
 http://[2409:8087:2001:20:2800:0:df6e:eb0a]/wh7f454c46tw2900649569_-743777193/ott.mobaibox.com/PLTV/3/224/3221227670/index.m3u8?icpid=3&RTS=1669701501&from=40&popid=40&hms_devid=2038&prioritypopid=40&vqe=3
 #EXTINF:-1 tvg-id="91" tvg-name="青海卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/qinghai.png" group-title="卫视",青海卫视
 http://[2409:8087:2001:20:2800:0:df6e:eb1b]/wh7f454c46tw1221605145_-1738716276/ott.mobaibox.com/PLTV/3/224/3221227554/index.m3u8?icpid=3&RTS=1668600311&from=40&popid=40&hms_devid=2116&prioritypopid=40&vqe=3
 #EXTINF:-1 tvg-id="新疆卫视" tvg-name="新疆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xinjiang.png" group-title="卫视",新疆卫视
 http://[2409:8087:2001:20:2800:0:df6e:eb0b]/wh7f454c46tw993550557_162751766/ott.mobaibox.com/PLTV/3/224/3221228290/index.m3u8?icpid=3&RTS=1668604377&from=40&popid=40&hms_devid=2038&prioritypopid=40&vqe=3
-#EXTINF:-1 tvg-id="58" tvg-name="云南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="卫视",云南卫视
-http://[2409:8087:4402:20:1:1216:401:14]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226660/index.m3u8
+
 
 
 #EXTINF:-1,tvg-id="CETV1" tvg-name="CETV1" tvg-logo="https://epg.112114.xyz/logo/CETV1.png" group-title="其他",CETV1
@@ -192,7 +190,42 @@ http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001348/index.m3u8?
 http://[2409:8087:1e03:21::34]:6610/cms001/ch00000090990000001348/index.m3u8?IASHttpSessionId=RR8275420230310002030000839
 #EXTINF:-1 tvg-id="华数高清" tvg-name="华数高清" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/华数.png" group-title="其他",华数超清
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000003000004748/index.m3u8?channel-id=wasusyt&Contentid=6000000003000004748&livemode=1&stbId
-
+#EXTINF:-1 tvg-id="北京新闻" tvg-name="北京新闻" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/北京新闻.png" group-title="地方",北京新闻
+http://iptv.8t.cx:8180/udp/239.3.1.159:8000
+#EXTINF:-1 tvg-id="北京财经" tvg-name="北京财经" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/北京财经.png" group-title="地方",北京财经
+http://iptv.8t.cx:8180/udp/239.3.1.116:8000
+#EXTINF:-1 tvg-id="北京生活" tvg-name="北京生活" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/北京生活.png" group-title="地方",北京生活
+http://iptv.8t.cx:8180/udp/239.3.1.117:8000
+#EXTINF:-1 tvg-id="北京文艺" tvg-name="北京文艺" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/北京文艺.png" group-title="地方",北京文艺
+http://iptv.8t.cx:8180/udp/239.3.1.242:8000
+#EXTINF:-1 tvg-id="北京影视" tvg-name="北京影视" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/北京影视.png" group-title="地方",北京影视
+http://iptv.8t.cx:8180/udp/239.3.1.158:8000
+#EXTINF:-1 tvg-id="北京国际" tvg-name="北京国际频道" tvg-logo="https://epg.112114.xyz/logo/北京国际.png" group-title="地方",北京国际
+http://iptv.8t.cx:8180/udp/239.3.1.235:8000
+#EXTINF:-1 tvg-id="体育休闲" tvg-name="北京体育休闲" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/北京体育休闲.png" group-title="地方",体育休闲
+http://iptv.8t.cx:8180/udp/239.3.1.243:8000
+#EXTINF:-1 tvg-id="1872" tvg-name="北京纪实" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/北京纪实科教.png" group-title="地方",纪实科教
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001329/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="卡酷少儿" tvg-name="卡酷少儿" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/北京卡酷少儿.png" group-title="地方",卡酷少儿
+http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001245/index.m3u8
+#EXTINF:-1 tvg-id="1988" tvg-name="上海纪实" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/纪实人文.png" group-title="地方",纪实人文
+http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001019/index.m3u8
+#EXTINF:-1 tvg-id="1986" tvg-name="东方影视" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/东方影视.png" group-title="地方",东方影视
+http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001016/index.m3u8
+#EXTINF:-1 tvg-id="1987" tvg-name="五星体育" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/五星体育.png" group-title="地方",五星体育
+http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001018/index.m3u8
+#EXTINF:-1 tvg-id="1991" tvg-name="上海外语" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/上海外语.png" group-title="地方",上海外语
+http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001128/index.m3u8
+#EXTINF:-1 tvg-id="1989" tvg-name="上海都市" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/上海都市.png" group-title="地方",上海都市
+http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001015/index.m3u8
+#EXTINF:-1 tvg-id="上海教育" tvg-name="上海教育" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/上海教育.png" group-title="地方",上海教育
+http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001268/index.m3u8
+#EXTINF:-1 tvg-id="上海新闻" tvg-name="上海新闻" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/上海新闻.png" group-title="地方",上海新闻
+http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001014/index.m3u8
+#EXTINF:-1 tvg-id="SITV都市剧场" tvg-name="SITV都市剧场" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/SITV都市剧场.png" group-title="地方",都市剧场
+http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001203/index.m3u8
+#EXTINF:-1 tvg-id="生活时尚" tvg-name="生活时尚" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/生活时尚.png" group-title="地方",生活时尚
+http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001199/index.m3u8
 
 
 
